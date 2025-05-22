@@ -10,5 +10,4 @@
 git clone https://github.com/math14f/HackGuld-Toolkit.git
 chmod +x HackGuld-Toolkit
 cd HackGuld-Toolkit
-cd HackGuld-Toolkit
 sudo python3 htk.py
