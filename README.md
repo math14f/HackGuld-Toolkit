@@ -5,8 +5,8 @@ this Tool must run As root!
 
 git clone https://github.com/math14f/HackGuld-Toolkit.git
 
-chmod +x hackingtoolkit
+chmod +x HackGuld-Toolkit
 
-cd hackingtoolkit
+cd HackGuld-Toolkit
 
 sudo python3 htk.py
